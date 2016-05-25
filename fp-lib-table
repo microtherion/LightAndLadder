@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name resistor-array)(type Legacy)(uri /Users/neeri/Development/KiCadLib/kicadlibrary/resistor-array.mod)(options "")(descr ""))
+)
